@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/main.dec76e32.chunk.js",
+    "main.js.map": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/main.dec76e32.chunk.js.map",
+    "runtime-main.js": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/runtime-main.83090645.js",
+    "runtime-main.js.map": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/runtime-main.83090645.js.map",
+    "static/css/2.f26e749f.chunk.css": "https://pioxscorpio.github.io/csb-fn8vh3/static/css/2.f26e749f.chunk.css",
+    "static/js/2.38e46d44.chunk.js": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/2.38e46d44.chunk.js",
+    "static/js/2.38e46d44.chunk.js.map": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/2.38e46d44.chunk.js.map",
+    "index.html": "https://pioxscorpio.github.io/csb-fn8vh3/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "https://pioxscorpio.github.io/csb-fn8vh3/static/css/2.f26e749f.chunk.css.map",
+    "static/js/2.38e46d44.chunk.js.LICENSE.txt": "https://pioxscorpio.github.io/csb-fn8vh3/static/js/2.38e46d44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83090645.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.38e46d44.chunk.js",
+    "static/js/main.dec76e32.chunk.js"
+  ]
+}
